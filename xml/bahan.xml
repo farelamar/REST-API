@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xml>
+<anggota>
+	<nama>Farel Amar Fahrezi</nama>
+	<email>amarfarel22@student.unsil.ac.id</email>
+	<alamat>Bogor</alamat>
+	<umur>20</umur>
+</anggota>
+<anggota>
+	<nama>Hibar</nama>
+	<email>hibar@student.unsil.ac.id</email>
+	<alamat>Bekasi</alamat>
+	<umur>20</umur>
+</anggota>
+<anggota>
+	<nama>sabrina</nama>
+	<email>sabrina@student.unsil.ac.id</email>
+	<alamat>Jakarta</alamat>
+	<umur>14</umur>
+</anggota>
+</xml>
